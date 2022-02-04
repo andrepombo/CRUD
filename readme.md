@@ -16,3 +16,8 @@ React
 - 1 - cd datavisiooh-back-front/react/clientes
 - 2 - npm update
 - 3 - npm start
+
+- Conta Demo
+- User:andre@andre.com
+- Senha:12345
+
