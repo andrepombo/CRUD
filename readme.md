@@ -1,6 +1,6 @@
-Instruções
+## Instruções
 
-Django
+### Django
 
 - 1 - cd datavisiooh-back-front/django
 - 2 - pip install pipenv ( Criador de ambientes virtuais )
@@ -11,13 +11,14 @@ Django
 
 (Em outro Terminal)
 
-React
+### React
 
 - 1 - cd datavisiooh-back-front/react/clientes
 - 2 - npm update
 - 3 - npm start
 
-Conta Demo
+---
+### Conta Demo
 
 - User:andre@andre.com
 - Senha:12345
