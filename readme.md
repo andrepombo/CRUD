@@ -17,7 +17,8 @@ React
 - 2 - npm update
 - 3 - npm start
 
-- Conta Demo
+Conta Demo
+
 - User:andre@andre.com
 - Senha:12345
 
